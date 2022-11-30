@@ -1,0 +1,15 @@
+header.homePageImage {
+  background-image: url("../images/home-bg.jpg");
+}
+
+.sweet-loading {
+  min-height: 100vh;
+  margin: 0px auto;
+  display: flex;
+  align-items: center !important;
+}
+
+.sweet-loading > span {
+  display: block !important;
+  margin: 0 auto !important;
+}
